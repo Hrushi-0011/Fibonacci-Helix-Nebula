@@ -1,0 +1,14 @@
+# virtual environment and Python caches
+venv/
+__pycache__/
+*.pyc
+
+# rendered videos are large (GitHub rejects files over 100 MB), so keep them out...
+*.mp4
+*.gif
+# ...except the small preview files in assets/
+!assets/preview.mp4
+!assets/preview.gif
+
+# editor files
+.vscode/

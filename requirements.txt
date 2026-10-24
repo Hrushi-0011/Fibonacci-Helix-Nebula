@@ -1,0 +1,4 @@
+numpy
+moderngl
+pyglet
+imageio-ffmpeg
